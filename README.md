@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-# Halo semua! 
 Perkenalkan nama saya **Gilang Ramadhan**.\
 Saya seorang Mahasiswa Gabut butuh loker.
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadadjipr/)ku ya.
@@ -14,7 +11,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 - 📫 How to reach me: linkind([www.linkedin.com/in/muhammadadjipr])
 - 😄 Pronouns: male
 - ⚡ Fun fact: still alive
--->
 
 Here are some ideas to get you started:
 <p align="left">
