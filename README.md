@@ -1,14 +1,14 @@
 ### Hi there 👋
-Perkenalkan nama saya **Gilang Ramadhan**.\
-Saya seorang Mahasiswa Gabut butuh loker.
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadadjipr/)ku ya.
+Perkenalkan nama saya **Muhammad Adji Pratama**.\
+Saya seorang Mahasiswa GABUT butuh loker.
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadadjipr/) ku ya.
 
 - 🔭 I’m currently working on brain
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate on this site
 - 🤔 I’m looking for help with God
 - 💬 Ask me about what do you want
-- 📫 How to reach me: linkind([www.linkedin.com/in/muhammadadjipr])
+- 📫 How to reach me: [instagram](https://www.instagram.com/mdjiepr/)
 - 😄 Pronouns: male
 - ⚡ Fun fact: still alive
 
