@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajips-code&label=Profile%20views&color=0e75b6&style=flat" alt="ajips-code" /> </p>
 ### Hi there 👋
 Perkenalkan nama saya **Muhammad Adji Pratama**.\
 Saya seorang Mahasiswa GABUT butuh loker.
