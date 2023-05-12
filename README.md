@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajips-code&label=Profile%20views&color=0e75b6&style=flat" alt="ajips-code"/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=ajips-code&label=Profile%20views&color=0e75b6&style=flat" alt="aji"/></p>
 
 ## Hi there 👋
 Perkenalkan nama saya **Muhammad Adji Pratama**.\
