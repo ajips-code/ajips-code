@@ -9,7 +9,8 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 - 👯 I’m looking to collaborate on this site
 - 🤔 I’m looking for help with God
 - 💬 Ask me about what do you want
-- 📫 How to reach me: [instagram](https://www.instagram.com/mdjiepr/)
+- 📫 How to reach me: <a href="https://www.instagram.com/mdjiepr/"><img src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png" alt="Instagram" width="20px" height="20px"></a> [My Instagram](https://www.instagram.com/mdjiepr/)
+- <img src="https://cdn3.iconfinder.com/data/icons/flat-icons-web/40/Globe-512.png" alt="" width="30px" height="25px"> [My Website](https://djie.netlify.app) 
 - 😄 Pronouns: male
 - ⚡ Fun fact: still alive
 
