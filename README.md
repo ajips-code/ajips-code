@@ -1,4 +1,8 @@
+
 <p align="left"><img src="https://komarev.com/ghpvc/?username=ajips-code&label=Profile%20views&color=0e75b6&style=flat" alt="aji"/></p>
+
+#![Muhammad Adji Pratama](https://user-images.githubusercontent.com/115201845/211271648-e5090c01-abc8-4e3a-908d-a0bb837f0c85.svg)
+![spectra-program-management-side-1024x576](https://user-images.githubusercontent.com/115201845/211274405-10db223b-ecb0-4d38-ab43-e172f5ec6e1b.jpg)
 
 ## Hi there 👋
 Perkenalkan nama saya **Muhammad Adji Pratama**.\
