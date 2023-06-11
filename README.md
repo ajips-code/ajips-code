@@ -16,9 +16,10 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 Here are some ideas to get you started:
 
+### Github Statistic
 <p align="left">
-<a href="https://github.com/gilangadhan">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
+<a href="[https://github.com/gilangadhan](https://github.com/ajips-code)">
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ajips-code&layout=compact&langs_count=8&theme=algolia"/>
+<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ajips-code&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
