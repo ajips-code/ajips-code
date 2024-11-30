@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 Perkenalkan nama saya **Muhammad Adji Pratama**.\
-Saya seorang Mahasiswa GABUT butuh loker.
+Saya seorang freshgraduate GABUT butuh belajar bersama dengan anda.
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammadadjipr/) ku ya.
 - 🔭 I’m currently working on brain
 - 🌱 I’m currently learning everything
